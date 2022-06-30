@@ -1,0 +1,102 @@
+[
+    {
+        "_id": "62bad590a842a10f7e0cd8c2",
+        "picture": "https://picsum.photos/420",
+        "description": "ex aliquip aute quis occaecat pariatur culpa labore qui",
+        "likes": 477,
+        "author": {
+            "name": "Eula Jensen",
+            "avatarUrl": "https://picsum.photos/32"
+        }
+    },
+    {
+        "_id": "62bad5907dae16bb1ab672a7",
+        "picture": "https://picsum.photos/420",
+        "description": "ad cillum commodo do sunt veniam irure adipisicing aute ipsum pariatur tempor non",
+        "likes": 71,
+        "author": {
+            "name": "Adela Sanders",
+            "avatarUrl": "https://picsum.photos/32"
+        }
+    },
+    {
+        "_id": "62bad590ac80f2efc22bff74",
+        "picture": "https://picsum.photos/420",
+        "description": "est cillum mollit laborum sit ullamco mollit est excepteur dolor id incididunt enim consectetur enim",
+        "likes": 375,
+        "author": {
+            "name": "Sandra Knox",
+            "avatarUrl": "https://picsum.photos/32"
+        }
+    },
+    {
+        "_id": "62bad590e5ba35a6446ab12e",
+        "picture": "https://picsum.photos/420",
+        "description": "consectetur do ea non incididunt in cillum",
+        "likes": 184,
+        "author": {
+            "name": "Leah Morin",
+            "avatarUrl": "https://picsum.photos/32"
+        }
+    },
+    {
+        "_id": "62bad590f38d9701402aeecb",
+        "picture": "https://picsum.photos/420",
+        "description": "occaecat do aliquip deserunt deserunt aliquip commodo nisi",
+        "likes": 469,
+        "author": {
+            "name": "Ruiz England",
+            "avatarUrl": "https://picsum.photos/32"
+        }
+    },
+    {
+        "_id": "62bad590d528871df8987200",
+        "picture": "https://picsum.photos/420",
+        "description": "labore est aute laboris quis nisi",
+        "likes": 353,
+        "author": {
+            "name": "Coffey Warren",
+            "avatarUrl": "https://picsum.photos/32"
+        }
+    },
+    {
+        "_id": "62bad590097bf45676534652",
+        "picture": "https://picsum.photos/420",
+        "description": "labore aliquip sunt deserunt nisi minim ullamco deserunt occaecat laboris anim ad elit",
+        "likes": 224,
+        "author": {
+            "name": "Barbra Rojas",
+            "avatarUrl": "https://picsum.photos/32"
+        }
+    },
+    {
+        "_id": "62bad590927a90d0f18dcc98",
+        "picture": "https://picsum.photos/420",
+        "description": "magna ullamco esse nisi ea esse incididunt irure",
+        "likes": 423,
+        "author": {
+            "name": "Christa Farley",
+            "avatarUrl": "https://picsum.photos/32"
+        }
+    },
+    {
+        "_id": "62bad5900dded21d1c3b32dd",
+        "picture": "https://picsum.photos/420",
+        "description": "laboris ea id deserunt minim amet minim reprehenderit consectetur cillum sit officia ex eiusmod",
+        "likes": 264,
+        "author": {
+            "name": "Opal Whitaker",
+            "avatarUrl": "https://picsum.photos/32"
+        }
+    },
+    {
+        "_id": "62bad5905183f931bc1ec4c3",
+        "picture": "https://picsum.photos/420",
+        "description": "magna anim in labore ullamco nulla quis",
+        "likes": 235,
+        "author": {
+            "name": "Gould Herrera",
+            "avatarUrl": "https://picsum.photos/32"
+        }
+    }
+]
